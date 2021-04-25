@@ -1,0 +1,2 @@
+username,password_hash,privilege
+"$bcrypt-sha256$v=2,t=2b,r=13$4C8aZ02goTcYYMGzHxJ/O.$SSMRAUNn0abOxOnKasziE.kIZxEhGWq","$bcrypt-sha256$v=2,t=2b,r=13$eg5hCWKusMROp776ATf8au$nX6dbyzhhoor67RZL/KgoTHUjOs83xm",root
